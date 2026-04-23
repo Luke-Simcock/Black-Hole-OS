@@ -4,3 +4,6 @@ An Operating System that is based on CachyOS. It uses KDE Plasma by default and 
 In no way do i take any credit for any code that is made by another person or group (including but not limited to code, graphics and applications)
 
 OS based on: https://github.com/CachyOS
+KDE Plasma: https://github.com/KDE
+Hyprland: https://github.com/hyprwm/Hyprland
+Cinnamon: https://github.com/linuxmint/cinnamon
